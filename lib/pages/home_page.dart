@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class home_page extends StatelessWidget {
+class HomePage extends StatelessWidget {
   int soni = 100;
   String gender = "male";
 
@@ -12,7 +12,7 @@ class home_page extends StatelessWidget {
       ),
       body: Container(
         child: Center(
-          child: Text("pankaj $soni ni is $gender"),
+          child: Text("pankaj $soni ni is $gender "),
         ),
       ),
       drawer: Drawer(),
