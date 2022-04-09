@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Container(
         child: Center(
-          child: Text("pankaj $soni ni is $gender "),
+          child: Text("pankaj $soni ni is $gender  "),
         ),
       ),
       drawer: Drawer(),
